@@ -1,4 +1,5 @@
 <?php
+echo "By: Tra\n";
 echo "VERIF EMAIL MANUAL, BUKA MAILNESIA.COM\n";
 echo "?Jumlah	";
 $b = trim(fgets(STDIN));
